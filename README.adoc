@@ -42,5 +42,8 @@ Per poder fer servir el projecte en la màquina virtual hem de seguir els següe
 == Portafolios
 
 Andrés: https://github.com/andresrojasalzate
+
 Diego: https://github.com/DiegoYAH
+
+Guiu: https://github.com/Guiu-PJ
 
