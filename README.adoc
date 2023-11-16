@@ -43,3 +43,4 @@ Per poder fer servir el projecte en la màquina virtual hem de seguir els següe
 
 Andrés: https://github.com/andresrojasalzate
 Diego: https://github.com/DiegoYAH
+
